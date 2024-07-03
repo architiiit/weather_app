@@ -11,7 +11,7 @@ const userInfoContainer=document.querySelector(".user-info-container");
 
 //  initially varibales needed
 let oldTab=userTab;
-const API_KEY="939ae3f78f6c35d60762d5a5abde089f";
+// const API_KEY="939ae3f78f6c35d60762d5a5abde089f";
 oldTab.classList.add("current-tab");
 
 //ek kaam, pending hai
